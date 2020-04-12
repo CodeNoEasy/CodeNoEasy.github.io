@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>myPost</title>
+    <link href="/2020/04/12/myPost/"/>
+    <url>/2020/04/12/myPost/</url>
+    
+    <content type="html"><![CDATA[<p>hello word hello word</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>java代码</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>mxfBlog</title>
     <link href="/2020/02/23/hello-world/"/>
     <url>/2020/02/23/hello-world/</url>
